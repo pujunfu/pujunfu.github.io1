@@ -1,0 +1,7 @@
+@inproceedings{pu2016sign,
+  title={Sign Language Recognition Based on Trajectory Modeling with HMMs},
+  author={Pu, Junfu and Zhou, Wengang and Zhang, Jihai and Li, Houqiang},
+  booktitle={International Conference on Multimedia Modeling (MMM)},
+  pages={686--697},
+  year={2016}
+}

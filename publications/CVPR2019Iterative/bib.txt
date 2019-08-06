@@ -1,0 +1,6 @@
+@inproceedings{pu2019iterative,
+  title={Iterative Alignment Network for Coutinuous Sign Language Recognition},
+  author={Pu, Junfu and Zhou, Wengang and Li, Houqiang},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2019}
+}

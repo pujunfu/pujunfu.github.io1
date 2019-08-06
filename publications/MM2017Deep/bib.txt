@@ -1,0 +1,7 @@
+@inproceedings{wang2017deep,
+  title={Deep Supervised Quantization by Self-Organizing Map},
+  author={Wang, Min and Zhou, Wengang and Tian, Qi and Pu, Junfu and Li, Houqiang},
+  booktitle={International Conference on Multimedia},
+  pages={1707--1715},
+  year={2017}
+}

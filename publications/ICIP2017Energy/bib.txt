@@ -1,0 +1,7 @@
+@inproceedings{pu2017energy,
+  title={Energy Based Fast Event Retrieval in Video with Temporal Match Kernel},
+  author={Pu, Junfu and Matsui, Yusuke and Yang, Fan and Satoh, Shin'ichi},
+  booktitle={International Conference on Image Processing (ICIP)},
+  pages={885--889},
+  year={2017}
+}
