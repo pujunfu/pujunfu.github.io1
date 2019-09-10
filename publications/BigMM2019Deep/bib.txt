@@ -1,0 +1,6 @@
+@inproceedings{wei2019deep,
+  title={Deep Grammatical Multi-classifier for Continuous Sign Language Recognition},
+  author={Wei, Chengcheng and Zhou, Wengang and Pu, Junfu and Li, Houqiang},
+  booktitle={International Conference on Multimedia Big Data (BigMM)},
+  year={2019}
+}

@@ -1,0 +1,7 @@
+@inproceedings{zhang2019continuous,
+  title={Continuous Sign Language Recognition via Reinforcement Learning},
+  author={Zhang, Zhihao and Pu, Junfu and Zhuang, Liansheng and Zhou, Wengang and Li, Houqiang},
+  booktitle={International Conference on Image Processing (ICIP)},
+  pages={285--289},
+  year={2019}
+}
