@@ -1,0 +1,6 @@
+@inproceedings{pu2020boosting,
+  title={Boosting Continuous Sign Language Recognition via Cross Modality Augmentation},
+  author={Pu, Junfu and Zhou, Wengang and Hu, Hezhen and Li, Houqiang},
+  booktitle={ACM International Conference on Multimedia (ACM MM)},
+  year={2020}
+}
