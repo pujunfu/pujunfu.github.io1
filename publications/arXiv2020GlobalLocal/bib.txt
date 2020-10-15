@@ -1,0 +1,6 @@
+@article{hu2020global,
+  title={Global-local Enhancement Network for NMFs-aware Sign Language Recognition},
+  author={Hu, Hezhen and Zhou, Wengang and Pu, Junfu and Li, Houqiang},
+  journal={arXiv preprint arXiv:2008.10428},
+  year={2020}
+}
