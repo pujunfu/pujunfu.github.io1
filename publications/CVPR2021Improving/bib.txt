@@ -1,0 +1,6 @@
+@inproceedings{pu2019iterative,
+  title={Improving Sign Language Translation with Monolingual Data by Sign Back-Translation},
+  author={Zhou, Hao and Zhou, Wengang and Qi, Weizhen and Pu, Junfu and Li, Houqiang},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2021}
+}

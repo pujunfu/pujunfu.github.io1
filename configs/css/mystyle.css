@@ -46,6 +46,7 @@ img.img_overview{
 	padding: 4px;line-height:1.42857143;display:inline-block;max-width:100%;height:auto;
 	float: left;
 	width: 35%;
+	/*width: 35%;*/
 	border: 2px solid #C8C8C8; 
 	border-radius: 8px; 
 	margin-right: 30px;
