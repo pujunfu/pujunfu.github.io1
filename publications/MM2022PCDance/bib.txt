@@ -1,0 +1,6 @@
+@inproceedings{gao2022pcdance,
+  title={PC-Dance: Posture-controllable Music-driven Dance Synthesis},
+  author={Gao, Jibin and Pu, Junfu and Zhang, Honglun and Shan, Ying and Zheng, Wei-Shi},
+  booktitle={ACM International Conference on Multimedia (ACM MM)},
+  year={2022}
+}
