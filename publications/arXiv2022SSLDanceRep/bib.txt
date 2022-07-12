@@ -1,0 +1,6 @@
+@article{yu2022self,
+  title={Self-Supervised Learning of Music-Dance Representation through Explicit-Implicit Rhythm Synchronization},
+  author={Yu, Jiashuo and Pu, Junfu and Cheng, Ying and Feng, Rui and Shan, Ying},
+  journal={arXiv preprint arXiv:2207.03190},
+  year={2022}
+}

@@ -1,0 +1,6 @@
+@article{pu2022musicdriven,
+  title={Music-driven Dance Regeneration with Controllable Key Pose Constraints},
+  author={Pu, Junfu and Shan, Ying},
+  journal={arXiv preprint arXiv:2207.03682},
+  year={2022}
+}
