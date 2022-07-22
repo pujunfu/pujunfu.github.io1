@@ -244,6 +244,7 @@ li {
 ol {
 	list-style-position: outside;
 	list-style-type: decimal;
+	padding-left: 20px;
 }
 
 li p, dd p {
