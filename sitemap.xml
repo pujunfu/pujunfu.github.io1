@@ -1,69 +1,220 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 43 Generated at: 2023-08-02 16:22:48 -->
 
-<url>
-  <loc>https://pujunfu.github.io/</loc>
-  <lastmod>2016-07-13T15:02:20+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://pujunfu.github.io/project/project.html</loc>
-  <lastmod>2016-04-12T07:07:20+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://pujunfu.github.io/research/research.html</loc>
-  <lastmod>2016-04-27T08:00:15+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://pujunfu.github.io/activity/activity.html</loc>
-  <lastmod>2016-04-12T07:07:08+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://home.ustc.edu.cn/~pjh/blog/blog.html</loc>
-  <lastmod>2016-04-26T14:24:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://pujunfu.github.io/source/cv_1_2.pdf</loc>
-  <lastmod>2016-05-03T10:43:14+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://pujunfu.github.io/index.html</loc>
-  <lastmod>2016-07-13T15:02:20+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://pujunfu.github.io/project/videoTech/videoTech_rep.pdf</loc>
-  <lastmod>2016-04-12T07:07:22+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://pujunfu.github.io/blog/travel/201508_GouqiIsland.pdf</loc>
-  <lastmod>2016-04-12T07:07:15+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://pujunfu.github.io/blog/travel/201505_Huangshan.pdf</loc>
-  <lastmod>2016-04-12T07:07:20+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://pujunfu.github.io/blog/travel/201408_Xiamen.pdf</loc>
-  <lastmod>2016-04-12T07:07:16+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://pujunfu.github.io/blog/study/github.pdf</loc>
-  <lastmod>2016-04-12T07:07:16+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
+  <url>
+    <loc>https://pujunfu.github.io/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/openresources/slr/index.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/openresources/cslr-dataset-2015/index.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/arXiv2020GlobalLocal/paper.pdf</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/arXiv2020GlobalLocal/bib.txt</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/TMM2023Prio/paper.pdf</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/TMM2023Prio/bib.txt</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/TMM2022Collaborative/paper.pdf</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/TMM2022Collaborative/bib.txt</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/index.html</loc>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/source/gpu_resources.html</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/arXiv2022SSLDanceRep/bib.txt</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/arXiv2022MusicDriven/bib.txt</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/MM2022PCDance/paper.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/MM2022PCDance/bib.txt</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/CVPR2021Improving/bib.txt</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/MM2020Boosting/paper.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/MM2020Boosting/bib.txt</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/CVPR2019Iterative/paper.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/CVPR2019Iterative/bib.txt</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/CVPR2019Iterative/poster.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/ICIP2019Continuous/paper.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/ICIP2019Continuous/bib.txt</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/BigMM2019Deep/paper.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/BigMM2019Deep/bib.txt</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/IJCAI2018Dilated/paper.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/IJCAI2018Dilated/bib.txt</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/IJCAI2018Dilated/slides.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/MM2017Deep/paper.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/MM2017Deep/bib.txt</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/ICIP2017Energy/paper.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/ICIP2017Energy/bib.txt</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/ICIP2017Energy/slides.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/PCM2016Sign/paper.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/PCM2016Sign/bib.txt</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/MMM2016Sign/paper.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/MMM2016Sign/bib.txt</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/MMM2016Sign/poster.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/ICME2016Chinese/paper.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/publications/ICME2016Chinese/bib.txt</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/projects/captchaless/videoTech_rep.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/doc/github.pdf</loc>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pujunfu.github.io/source/cvpr2018_papers.html</loc>
+    <priority>0.71</priority>
+  </url>
+
 </urlset>
